@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": "68316a5280fb8",
+        "text": "tugas 1",
+        "done": false
+    },
+    {
+        "id": "68316a59c7148",
+        "text": "tugas 2",
+        "done": false
+    },
+    {
+        "id": "68316a5f9f418",
+        "text": "tugas 3",
+        "done": false
+    }
+]
